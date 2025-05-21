@@ -4,7 +4,7 @@ public class TestProject {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a = 10;
+		double a = 10.5;
 System.out.println(a);
 	}
 
